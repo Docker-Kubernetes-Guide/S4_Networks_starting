@@ -1,0 +1,16 @@
+Method 1: Change Default Terminal via Settings
+
+Open VS Code.
+Go to Settings:
+
+Click on File > Preferences > Settings (or use Ctrl + ,).
+
+Search for terminal.integrated.defaultProfile:
+
+In the search bar, type "terminal.integrated.defaultProfile" to find the setting.
+
+Select the Default Terminal Profile:
+
+Under "Terminal › Integrated › Default Profile: Windows/Mac/Linux", click on the drop-down and choose your preferred terminal (e.g., PowerShell, Command Prompt, Git Bash, or WSL).
+
+Restart VS Code to apply changes.
